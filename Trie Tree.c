@@ -1,4 +1,4 @@
-//You should download words_alpha.txt in same directory for test data. It use 230.000K ram for 350.000 words.
+//You should download words_alpha.txt in same directory for test data. It use 230.000K ram for 370.000 words.
 
 #include "stdio.h"
 #include "stdlib.h"
